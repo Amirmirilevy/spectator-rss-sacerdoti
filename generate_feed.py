@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
 import json
+import os
 
 BASE_URL = "https://www.spectator.co.uk/writer/jonathan-sacerdoti/"
 HOST_URL = "https://www.spectator.co.uk"
@@ -37,7 +37,8 @@ def fetch_articles():
     return articles
 
 def write_json(articles):
-    with open("articles.json", "w", encoding="utf-8") as f:
+    out_path = os.path.join(os.getcwd(), "articles.json")
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(articles, f, indent=2, ensure_ascii=False)
 
 def write_rss(articles):
@@ -62,7 +63,8 @@ def write_rss(articles):
 </rss>
 """
 
-    with open("feed.xml", "w", encoding="utf-8") as f:
+    out_path = os.path.join(os.getcwd(), "feed.xml")
+    with open(out_path, "w", encoding="utf-8") as f:
         f.write(rss)
 
 if __name__ == "__main__":
