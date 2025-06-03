@@ -10,21 +10,23 @@ def fetch_articles():
     response = requests.get(BASE_URL)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    articles = []
-
     titles = soup.select("a.article__title-link")
     images = soup.select("a.article__image-link img")
     descriptions = soup.select("p.article__excerpt-text")
     dates = soup.select("time.archive-entry__timestamp")
 
-    for i in range(len(titles)):
+    articles = []
+
+    # Limit to the shortest list to avoid IndexError
+    num_articles = min(len(titles), len(images), len(descriptions), len(dates))
+    for i in range(num_articles):
         title = titles[i].text.strip()
         link = titles[i]["href"]
         if not link.startswith("http"):
             link = HOST_URL + link
         image = images[i]["src"]
         description = descriptions[i].text.strip()
-        date = dates[i]["datetime"] if dates[i].has_attr("datetime") else dates[i].text.strip()
+        date = dates[i].get("datetime", dates[i].text.strip())
 
         articles.append({
             "title": title,
