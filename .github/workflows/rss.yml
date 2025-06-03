@@ -9,11 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 👈 This is REQUIRED to allow committing files
+      contents: write  # Required to allow committing files
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # 👈 Uses GitHub's built-in token
+          persist-credentials: false  # Important to allow token use for push
+
+      - name: Set up Git user
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,10 +34,10 @@ jobs:
         run: python generate_feed.py
 
       - name: Commit and push updated files
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
           git add feed.xml articles.json
           git diff --cached --quiet || git commit -m "Update feed"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
           git push
-
