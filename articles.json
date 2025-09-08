@@ -392,13 +392,6 @@
     "date": "2 Apr 2025"
   },
   {
-    "title": "The truth about the Gaza protests",
-    "link": "https://www.spectator.co.uk/article/the-truth-about-the-gaza-protests/",
-    "image": "https://www.spectator.co.uk/wp-content/uploads/2025/03/GettyImages-2206442983.jpg?resize=440,293",
-    "description": "A series of striking videos have emerged from the Gaza Strip over the last week. Crowds of Palestinians, chanting slogans against Hamas, have taken to the streets in a rare public display of dissent. Some have criticised the mainstream Western media for treating these images with restraint, claiming a missed opportunity to spotlight what could",
-    "date": "31 Mar 2025"
-  },
-  {
     "title": "The trouble with BBC Arabic",
     "link": "https://www.spectator.co.uk/article/we-need-an-inquiry-into-bbc-arabic/",
     "image": "https://www.spectator.co.uk/wp-content/uploads/2025/03/GettyImages-1503349936.jpg?resize=440,293",
@@ -525,10 +518,10 @@
     "date": "10 Feb 2025"
   },
   {
-    "title": "Can Hamas ever be defeated?",
-    "link": "https://www.spectator.co.uk/article/can-hamas-ever-be-defeated/",
-    "image": "https://www.spectator.co.uk/wp-content/uploads/2025/02/GettyImages-2196593089-e1738688502934.jpg?resize=440,293",
-    "description": "No matter how many times it is vanquished or decisively discredited, ‘Palestinianism’ persists as an ideology unwilling to die. Rooted in Muslim Arab nationalism, it remains fundamentally opposed to the very existence of Israel – a Jewish, liberal, and free state. Hamas, one of its most notorious champions, has in recent weeks orchestrated a carefully",
+    "title": "How Hamas used starvation as a weapon of war",
+    "link": "https://www.spectator.co.uk/article/how-hamas-used-starvation-as-a-weapon-of-war-against-israeli-hostages/",
+    "image": "https://www.spectator.co.uk/wp-content/uploads/2025/02/GettyImages-2197827993.jpg?resize=440,293",
+    "description": "We asked for proof of deliberate starvation in Gaza. On Saturday, we received it. The images of Eli Sharabi, Or Levy, and Ohad Ben Ami – three hostages released by Hamas after 491 days in captivity – were haunting. Frail, skeletal, barely able to stand, they bore the unmistakable marks of prolonged deprivation. The sight",
     "date": "7 Feb 2025"
   },
   {
@@ -663,6 +656,13 @@
     "image": "https://www.spectator.co.uk/wp-content/uploads/2021/07/heath_israel_NO_WORDS.jpeg?resize=440,293",
     "description": "It’s time to think about your third Covid vaccine dose. That might sound like a premature suggestion when many people are still waiting for their second dose, and millions have not even received one. But Israel has just become the first place in the world to start giving a third, booster dose of the vaccine,",
     "date": "15 Jul 2021"
+  },
+  {
+    "title": "What’s the real reason Israel’s vaccines were rejected by Palestinians?",
+    "link": "https://www.spectator.co.uk/article/what-s-the-real-reason-israel-s-vaccines-were-rejected-by-palestinians/",
+    "image": "https://www.spectator.co.uk/wp-content/uploads/2021/06/GettyImages-1232177843.jpg?resize=440,293",
+    "description": "Sipping an iced coffee in a Tel Aviv café this week, it felt like it was 2018 again. Nobody wears a face mask, tables are close together and there’s no hand gel in sight. Very few people one meets even talk about Covid-19. Though a tiny increase in the occurrence of the Indian variant has been",
+    "date": "21 Jun 2021"
   },
   {
     "title": "What’s the real reason Israel’s vaccines were rejected by Palestinians?",
