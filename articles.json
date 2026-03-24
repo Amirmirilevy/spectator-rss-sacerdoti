@@ -119,6 +119,13 @@
     "date": "March 7, 2026"
   },
   {
+    "title": "The Iran war is showing no sign of slowing",
+    "link": "https://spectator.com/article/the-iran-war-is-showing-no-sign-of-slowing/?edition=us",
+    "image": "https://spectator.com/wp-content/uploads/2026/03/GettyImages-2264412237.jpg?resize=440,293",
+    "description": "Israeli and American military operations against Iranian targets intensified over Thursday, while Iran and its proxy militias across the region sought ways to retaliate across a widening geographic arc. The day began with reports of expanding hostilities around Iran’s borders. Early in the morning, Iranian positions in eastern parts of the country – including areas",
+    "date": "March 6, 2026"
+  },
+  {
     "title": "The Iran war is turning into a regional conflict",
     "link": "https://spectator.com/article/the-iran-war-is-morphing-into-a-regional-conflict/?edition=us",
     "image": "https://spectator.com/wp-content/uploads/2026/03/GettyImages-2264198951.jpg?resize=440,293",
@@ -243,13 +250,6 @@
     "image": "https://spectator.com/wp-content/uploads/2026/01/GettyImages-1243371980.jpg?resize=440,293",
     "description": "The Middle East has long been organised around two competing logics: pragmatic alignment and ideological alignment. Before the 7 October war, these logics produced two regional blocs that structured most political, diplomatic and security behaviour. The Palestinian attack and invasion that triggered the war ruptured both systems. Incentives shifted, alliances frayed, and assumptions collapsed. What",
     "date": "December 30, 2025"
-  },
-  {
-    "title": "Saudi Arabia and the UAE’s proxy war in Yemen",
-    "link": "https://spectator.com/article/saudi-arabia-and-the-uaes-proxy-war-in-yemen/?edition=us",
-    "image": "https://spectator.com/wp-content/uploads/2025/12/GettyImages-2253289943.jpg?resize=440,293",
-    "description": "The escalation that emerged overnight in southern Yemen did not originate on the battlefield but in a relatively quiet logistical operation. It began with the arrival of two ships carrying weapons and military vehicles from the United Arab Emirates, docking at the port of Mukalla in Hadramawt. The cargo was unloaded without coordination with the",
-    "date": "December 29, 2025"
   },
   {
     "title": "We need to talk about Islam",
@@ -392,6 +392,13 @@
     "date": "October 27, 2025"
   },
   {
+    "title": "The searing testimony of Eli Sharabi",
+    "link": "https://spectator.com/article/the-searing-testimony-of-eli-sharabi/?edition=us",
+    "image": "https://spectator.com/wp-content/uploads/2025/10/GettyImages-2241875964.jpg?h=293px&crop=0,0,440px,293px",
+    "description": "Now that the remaining live hostages have been freed, and the remains of those killed are slowly being located and returned to their families, we can think more on the details, the testimonies, and the traumas which we couldn’t fully comprehend as the war raged within our minds. Those former hostages now search for recovery",
+    "date": "October 25, 2025"
+  },
+  {
     "title": "The Gaza ceasefire isn’t broken",
     "link": "https://spectator.com/article/the-gaza-ceasefire-isnt-broken-but-it-is-a-new-beginning/?edition=us",
     "image": "https://spectator.com/wp-content/uploads/2025/10/GettyImages-2241698142-e1760887756353.jpg?h=293px&crop=0,0,440px,293px",
@@ -516,13 +523,6 @@
     "image": "https://spectator.com/wp-content/uploads/2025/08/GettyImages-2225406058-e1756373637554.jpg?resize=440,293",
     "description": "Ed Davey has built an entire political career on pratfalls, water slides and staged wipe-outs, like a children’s entertainer who accidentally wandered into Westminster. Paddleboarding into the lake, hurling himself down a slip ’n’ slide, spinning on teacups at Thorpe Park, he’s like one of those tragically comic idiot acts on Britain’s Got Talent, selected",
     "date": "August 22, 2025"
-  },
-  {
-    "title": "The BBC’s Israel problem needs investigating",
-    "link": "https://spectator.com/article/the-bbcs-israel-problem-needs-investigating/?edition=us",
-    "image": "https://spectator.com/wp-content/uploads/2025/08/GettyImages-2190261546-e1755850884441.jpg?resize=440,293",
-    "description": "When the BBC was forced to admit that a woman it featured as a starving victim of the Gaza war was in fact also receiving treatment for cancer, it was not a minor correction. It was a collapse of credibility. The image of her wasted body, presented as evidence of Israeli starvation tactics, ricocheted across",
-    "date": "August 21, 2025"
   },
   {
     "title": "Israel will have to dig deep for its Gaza City offensive",
@@ -777,6 +777,13 @@
     "date": "May 31, 2025"
   },
   {
+    "title": "The case for looking back in anger",
+    "link": "https://spectator.com/article/the-case-for-looking-back-in-anger/?edition=us",
+    "image": "https://spectator.com/wp-content/uploads/2025/05/Screen_Shot_2020-12-21_at_16.08.57.webp?h=293px&crop=11,0,440px,293px",
+    "description": "Last week marked the anniversary of the Manchester Arena bombing – the deadliest terrorist attack on British soil since the 7/7 London bombings. Twenty-two people were murdered, most of them children and teenagers, at a pop concert targeted with deliberate cruelty. Among them was Saffie-Rose Roussos, just eight years old – the youngest known victim of terrorism",
+    "date": "May 30, 2025"
+  },
+  {
     "title": "Are British taxpayers funding Hamas?",
     "link": "https://spectator.com/article/are-british-taxpayers-funding-hamas/?edition=us",
     "image": "https://spectator.com/wp-content/uploads/2025/05/GettyImages-2214115123.jpg?resize=440,293",
@@ -896,10 +903,10 @@
     "date": "March 30, 2025"
   },
   {
-    "title": "The truth about the Gaza protests",
-    "link": "https://spectator.com/article/the-truth-about-the-gaza-protests/?edition=us",
-    "image": "https://spectator.com/wp-content/uploads/2025/03/GettyImages-2206442983.jpg?resize=440,293",
-    "description": "A series of striking videos have emerged from the Gaza Strip over the last week. Crowds of Palestinians, chanting slogans against Hamas, have taken to the streets in a rare public display of dissent. Some have criticised the mainstream Western media for treating these images with restraint, claiming a missed opportunity to spotlight what could",
+    "title": "Who will stand up for Jews today?",
+    "link": "https://spectator.com/article/who-will-stand-up-for-jews-today/?edition=us",
+    "image": "https://spectator.com/wp-content/uploads/2025/03/GettyImages-2201452570.jpg?resize=440,293",
+    "description": "Awoken by sirens wailing over large parts of central Israel last weekend, I pulled on whatever clothes I could find beside my bed and shuffled down to the bomb shelter in the basement. The missiles, launched from Yemen by the Iranian-backed Houthis, didn’t distinguish between ideologies or identities. More or less every Israeli in the strike",
     "date": "March 24, 2025"
   },
   {
@@ -1027,13 +1034,6 @@
     "image": "https://spectator.com/wp-content/uploads/2025/02/GettyImages-2196593089-e1738688502934.jpg?resize=440,293",
     "description": "No matter how many times it is vanquished or decisively discredited, ‘Palestinianism’ persists as an ideology unwilling to die. Rooted in Muslim Arab nationalism, it remains fundamentally opposed to the very existence of Israel – a Jewish, liberal, and free state. Hamas, one of its most notorious champions, has in recent weeks orchestrated a carefully",
     "date": "February 5, 2025"
-  },
-  {
-    "title": "The audacity of Trump’s Gaza plan",
-    "link": "https://spectator.com/article/the-audacity-of-trumps-gaza-plan/?edition=us",
-    "image": "https://spectator.com/wp-content/uploads/2025/02/GettyImages-2196938705.jpg?resize=440,293",
-    "description": "Some moments in history demand recognition, not just for their weight in the present but for the seismic shifts they herald. The Trump-Netanyahu press conference was one such moment – not a perfunctory diplomatic exercise, nor a routine reaffirmation of alliance, but an unambiguous declaration of intent. It was a disruption of long-entrenched, failed orthodoxies and",
-    "date": "January 28, 2025"
   },
   {
     "title": "Is it time to take Trump’s Gaza resettlement plan seriously?",
@@ -1174,6 +1174,13 @@
     "image": "https://spectator.com/wp-content/uploads/2021/05/GettyImages-1233019010.jpg?resize=440,293",
     "description": "The ceasefire between Hamas and Israel has started, and the gates to Gaza have opened for the international press. Now a new battle will begin over numbers and ratios. There will be calls for investigations, and endless debates about who ‘won’. Israel’s claims of precision targeting will come under scrutiny, but so too should Palestinian",
     "date": "May 22, 2021"
+  },
+  {
+    "title": "Hamas’s rockets are killing Palestinians too",
+    "link": "https://spectator.com/article/hamas-s-rockets-are-killing-palestinians-too/?edition=us",
+    "image": "https://spectator.com/wp-content/uploads/2021/05/GettyImages-1232914673.jpg?resize=440,293",
+    "description": "Israel’s military action in Gaza is widely reported daily across the world. Images of hundreds of rockets lighting up the skies over Israeli cities and of the rubble of destroyed buildings in the Gaza Strip are once again part of the daily cycle of print and broadcast news. But most reports are thin on details",
+    "date": "May 16, 2021"
   },
   {
     "title": "What the fight against HIV can teach us about defeating Covid-19",
